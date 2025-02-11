@@ -32,5 +32,5 @@ class Config(object):
     # Thumbnail image ka URL
     THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg" #Replace by with your Thumb URL
     # API host ka URL
-    HOST = "www.masterapi.tech"
+    HOST = "https://www.masterapi.tech/"
 
