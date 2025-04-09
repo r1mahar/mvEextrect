@@ -2,13 +2,13 @@ import os
 
 class Config(object):
     # Telegram Bot ka token
-    BOT_TOKEN = "7550452226:AAHmHKpLAElQNAqNIJnxrj8_Mfm339o3cL4"
+    BOT_TOKEN = "7790552367:AAFodmQmgDQbkPA-pdRqy-SMeIke3YAUSjM"
     # Telegram API ki ID
-    API_ID = 25773625
+    API_ID = 24037760
     # Telegram API ki hash key
-    API_HASH = "137dc2742789fc81191a9bf7a25ff922"
+    API_HASH = "dccc3070f1c12ab155011f14c3d6ae6a"
     # Admin users ki IDs (comma se separate ki hui)
-    ADMIN = '7385324642'.split(',')
+    ADMIN = '7834875502'.split(',')
     # Admin IDs ko integer list mein convert karna
     ADMIN_ID = [int(id) for id in ADMIN]
     # MongoDB database ka URL
@@ -16,19 +16,19 @@ class Config(object):
     # Database ka naam
     DB_NAME = "MY_BOT_DB"
     # Text log channel ki ID
-    TXT_LOG = -1002470171280
+    TXT_LOG = -1002578737957
     # Authentication log channel ki ID
-    AUTH_LOG = -1002470171280
+    AUTH_LOG = -1002578737957
     # Hit log channel ki ID
-    HIT_LOG = -1002470171280
+    HIT_LOG = -1002578737957
     # DRM dump channel ki ID
-    DRM_DUMP = -1002470171280
+    DRM_DUMP = -1002578737957
     # Main channel ki ID
-    CHANNEL = -1002470171280
+    CHANNEL = -1002578737957
     # Channel ka link
-    CH_URL = "https://t.me/+sYOgy9ZgCZRhYTNl"
+    CH_URL = "https://t.me/karma_batch_rwa_2026"
     # Bot ke owner ka Telegram link
-    OWNER = "https://t.me/Ganshyamv"
+    OWNER = "https://t.me/Final_piece"
     # Thumbnail image ka URL
     THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg" #Replace by with your Thumb URL
     # API host ka URL
