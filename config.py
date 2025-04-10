@@ -12,7 +12,7 @@ class Config(object):
     # Admin IDs ko integer list mein convert karna
     ADMIN_ID = [int(id) for id in ADMIN]
     # MongoDB database ka URL
-    DB_URL = "mongodb+srv://mewadonlinestudy:yYjxKiZGQag8DnWH@cpvod.ywpecvo.mongodb.net/?retryWrites=true&w=majority&appName=cpvodak"
+    DB_URL = "mongodb+srv://mpsystem05:<db_password>@cluster0.eppygqi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     # Database ka naam
     DB_NAME = "MY_BOT_DB"
     # Text log channel ki ID
